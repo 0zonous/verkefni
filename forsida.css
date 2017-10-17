@@ -40,8 +40,9 @@ header>div    {
     width:100%;
 }
 
-header>div>a {
-  float:
+
+header>div>a>button {
+  float: right;
 }
 
 ul {
@@ -89,7 +90,7 @@ button {
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
-    margin-left: 34em;
+    margin-left: 42%;
   }
 
 button:hover {
@@ -97,14 +98,15 @@ button:hover {
   color: #eee
 }
 
-
 footer {
   background-color: #252930;
   color: white;
 }
 
+a>
+
 footer>p {
-  margin-left: 30em;
+  margin-left: 42%;
   display: flex;
   flex: column;
 }

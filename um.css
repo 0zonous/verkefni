@@ -51,6 +51,11 @@ blockquote{
   margin-right: 8em;
 }
 
+button:hover {
+  background-color: #d0d4db;
+  color: #eee
+}
+
 footer {
   background-color: #252930;
   color: white;
